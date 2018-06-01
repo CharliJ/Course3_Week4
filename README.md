@@ -3,6 +3,7 @@ README
 
 Summary
 -------
+This repo contains this README, a Code Book (CodeBook.md) that explains the data transformations and variables, and a Part5data.txt file that is the output file of the included run\_analysis.R script 
 
 The run\_analysis.R script analyzes "data collected from acceleromteres from the Samsung Galaxy S smartphone" (1), and generates a text file that contains the means of means and standard deviations of measurements taken per each of 30 subjects doing 6 activities. The generated text file is tidy, in that each variable is in its own column, and each observation is in its own row. run\_analysis.R is the only script used - it does not call any others. The data may be read using:
 
